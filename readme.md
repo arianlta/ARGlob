@@ -11,7 +11,8 @@ A dynamic simulation of moving creatures within a container (`Glob`). This simul
 
 ## Demo
 
-Include a GIF or a screenshot of your simulation here.  
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/e561683c-d209-469c-85af-904e51ac77f8" />
+
 
 ## Installation
 
@@ -19,8 +20,3 @@ Include a GIF or a screenshot of your simulation here.
 - [Node.js](https://nodejs.org/)
 - npm or yarn (comes with Node.js)
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/glob-simulation.git
-   cd glob-simulation
