@@ -1,0 +1,14 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#container{
+  border: 1px solid black;
+  width: 700px;
+  height: 500px;
+  background-color: antiquewhite;
+  margin: 10px auto;
+  position: relative;
+}
